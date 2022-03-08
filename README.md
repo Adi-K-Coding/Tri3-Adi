@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# README
+## 5.1 Tech Talk Notes
+### Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
+Three beneficials effects of computing are that they allow real time collaboration and communication between people. They also allow more efficient work to be done, and allow information to be widespread and can be accessed from anywhere around the world. Computer also allows for saving space(storage) and allows tasks to be automated. 
 
-You can use the [editor on GitHub](https://github.com/Adi-K-Coding/Tri3-Adi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adi-K-Coding/Tri3-Adi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+However, on the flip side, there are also cons. These include a potential for the loss of privacy/data, since your data can be hacked into and stolen. Computers also cause all types of health problems, whether it be mental or phyical health issues. Computers can also cause a lot of wasted time as there are too many potential links you could click and lose track of time on. 
+### Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
+Dopamine issues are real and not a parent conspiracy. Dopammine is the hormone the body releases when it is happy. We get dopamine hits anytime we do something enjoyable. One of the biggest issues in todays day and age are that social media have created it so that everytime we scroll and see a new post, or a new comment, like a video, or share a video, we get little dopamine hits. This has created a culture where we are used to getting fast dopamine hits. This affects attention spans as once something doesn't give you a quick dopamine hit, you get bored and try to find something else. Furthermore, people are more likely to give up on things as they aren't looking long term, and get discouraged when they don't get the quick dopamine hits. I can relate to this as I can admit I spend too much time on social media scrolling endlessly. I think that sometimes I need to take a step back and stop scrolling. I also thinnk I need to work on looking at things long term so that I don't get discouraged so easily when things dont' work out right away. 

@@ -26,4 +26,4 @@ if __name__ == "__main__":
             exit()
         else:
             print("Enter a valid input")
-        print("  ")
+        print("   ")

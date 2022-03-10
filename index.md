@@ -1,1 +1,1 @@
-{% includes navigation.html %}
+{% include navigation.html %}

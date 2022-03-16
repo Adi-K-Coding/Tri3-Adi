@@ -1,5 +1,9 @@
 {% include navigation.html %}
-## 5.1 Tech Talk Notes
+## 5.1 Tech Talk Notes and Actions
+### Notes: 
+Technology can be used in so many different ways, and there are endless different possiblitied with technology. When you hold a phone or computer in your hands, you have the whole of the world at your disposal. Technology has so many benefits for society, but it can be used in potentially harmful ways. That is why it is important to set regulations and have rules that prevent technology from being used in the wrong ways or falling into the wrong hands. 
+
+
 ### Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 Three beneficials effects of computing are that they allow real time collaboration and communication between people. They also allow more efficient work to be done, and allow information to be widespread and can be accessed from anywhere around the world. Computer also allows for saving space(storage) and allows tasks to be automated. 
 
@@ -8,6 +12,9 @@ However, on the flip side, there are also cons. These include a potential for th
 Dopamine issues are real and not a parent conspiracy. Dopammine is the hormone the body releases when it is happy. We get dopamine hits anytime we do something enjoyable. One of the biggest issues in todays day and age are that social media have created it so that everytime we scroll and see a new post, or a new comment, like a video, or share a video, we get little dopamine hits. This has created a culture where we are used to getting fast dopamine hits. This affects attention spans as once something doesn't give you a quick dopamine hit, you get bored and try to find something else. Furthermore, people are more likely to give up on things as they aren't looking long term, and get discouraged when they don't get the quick dopamine hits. I can relate to this as I can admit I spend too much time on social media scrolling endlessly. I think that sometimes I need to take a step back and stop scrolling. I also thinnk I need to work on looking at things long term so that I don't get discouraged so easily when things dont' work out right away. 
 
 ## 5.2 Tech Talk Notes
+### Notes:
+Digital divide is the difference in access to technology between different people or groups of people. This can be due to access to internet, or different belief systems that prevent them from using technology. Whatever the case, there is a divide between people. Different factors that can contribute to the divide are socioeconomic factors, geographic factors, demographic factors, nationality, religion, and ethnicity. 
+The digital divide can be reduced by giving people access to technology. For example, at Del Norte, every student was given chromebooks, to make sure that they had access to a device that allows them to access the internet. 
 ### How does someone empower themself in a digital world?
 To empower themselves in a digital world, one can turn online. People can find thousands and thousands of pages of people like them, and find things in common with them. One can participate in the digital world, and use the knowlege they gain online to improve and utilize real life skills and interactions. 
 ### How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.

@@ -1,3 +1,5 @@
 {% include navigation.html %}
 
-<h1 style = "color:midnight-blue">Adi's Github Pages</h1>
+<h1>Adi's Github Pages</h1>
+
+<iframe src="https://github.com/Adi-K-Coding/Tri3-Adi/issues/1" width=800 height=600></iframe>

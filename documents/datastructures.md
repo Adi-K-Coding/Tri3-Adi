@@ -1,10 +1,8 @@
 {% include navigation.html %}
 
 ```python
-import swapper
-import matrix
-import design
-import funcy
+
+from week_zero import design, funcy, swapper, matrix
 
 main_menu = [
     ["swap", "swapper.py"],

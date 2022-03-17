@@ -8,15 +8,14 @@ def design():
         print(str1 + (str2 * i))
         str1 = str1[0: len(str1) - 1]
 
-    trunkspace = (treesizeint / 2)
-    trunkspaceint = int(trunkspace)
-    spcs = " " * treesizeint
+    trunkspaceint = treesizeint + (treesizeint % 2)
+    spcs = " " * (trunkspaceint-1)
 
     print("", end="")
-    print(spcs, end="* * ")
+    print(spcs, end="||| ")
     print("")
     print("", end="")
-    print(spcs, end="* * ")
+    print(spcs, end="||| ")
 
 
 if __name__ == "__main__":

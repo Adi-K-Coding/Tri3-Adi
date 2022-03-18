@@ -21,3 +21,20 @@ To empower themselves in a digital world, one can turn online. People can find t
 Somebody that is empowered could help somebody that is not empowered by including them in various forms of digital communication and utilization. They could teach them how to use certain feature online, which would help them become more empowered, or show them certain features, and expose them to the thousands of different websites, features, and technologies available on the internet. At Del Norte HS, I could help by creating videos that showcase different features of websites such as google drive, as some people don't know how to use this website, or don't know helpful tips and tricks. 
 ### Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 When it comes to technology, there are many digital barries and red tape blocking people from reach certain websites. Howver, these are for the most part beneficial because they stop people from going to sites that could be potentially harmful for them or their computer. A Del Norte, certain site are blocked, such as innapropriate sites, or sites for gaming, which are distracting during school. 
+
+## 5.3 Tech Talk Notes
+### Notes:
+Computer can sometimes have bias in their algorithms. The bias is most often unintentional, but it can have drastic effects and can cause problems for the developers. Bias can also be intentional ways, such as in advertising when advertising certain products. 
+### Come up with some thoughts on the video and be ready to discuss them as I call on you. Here are some ideas...
+While the owner of the computer and the video creator was in a joking mood, it could potentially be a serious problem as the computer did not track somebody with a darker skin color. This bias was most likely not intentional as the programmers/developers of the technology did not intend for this to happen. After looking into the comments for possible explanations, I found that a possible explanation for this effect could be that the computer looks at certain pigments for movements, and the combination of the background and skin color made it difficult for the computer to track the man with the darker skin color. This problem should be corrected, and the bias removed so that other people with similar skin color aren't affected. 
+
+## 5.4 Tech Talk Notes
+### Notes:
+Crowdsourcing can be potenially beneficial because it allows many people to collaborate and work together on projects. Multiple people are able to contribute their ideas, and thus the project can be more accurate, and can be completed faster. However, on the flip side, it can be negative, or untrustworty, such as wikipedia, because anybody can add anything they want, and we don't know if it is correct or not.
+
+### CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+A crowdsource idea that we could implement in CSP is large database of information on all types of topics. Now not every person or even every scrum team knows everything, so by crowdsourcing to all the students, everybody can add information on things that they know about, and the database would include more topics, and be more accurate, due to the implementation of crowdsourcing. 
+
+### What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+
+Our final project could be better with crowdsourcing. This is because we have an idea to add a database with tennis events in it. Instead of us having to individually add every event, we can add a feature where other people can just add their own events in with the results, and this would make data entry more efficient and convenient. 

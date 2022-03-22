@@ -15,7 +15,7 @@ InfoDb.append({
     "City": "Madrid ",
     "Team Name": "Atlético Madrid",
     "Stadium": "Wanda Metropolitano Stadium",
-    "Players": ["Jan Oblak", "Antoine Griezmann", "João Félix", "Luis Suárez"]
+    "Players": ["Jan Oblak", "", "Antoine Griezmann", "João Félix", "Luis Suárez"]
 })
 
 InfoDb.append({
@@ -30,18 +30,18 @@ InfoDb.append({
 InfoDb.append({
     "Country": "India",
     "League": "IPL",
-    "City": "Bangalore ",
-    "Team Name": "Royal Challengers Bangalor",
+    "City": "Los Angeles ",
+    "Team Name": "Dodgers",
     "Stadium": "M Chinnaswamy Stadium",
-    "Players": ["Virat Kohli", "Faf du Plessis", "Glenn Maxwell", "Josh Hazelwood"]
+    "Players": ["Cody Bellinger", "Clayton Kershaw", "Trea Turner", "Mookie Betts", "Walker Buelher"]
 })
 
 
 def data(n):
-    print("Country: ", InfoDb[n]["Country"], "\nLeague: ", InfoDb[n]["League"],
-          "\nCity: ", InfoDb[n]["City"], "\nTeam Name: ", InfoDb[n]["Team Name"],
-          "\nStadium: ", InfoDb[n]["Stadium"])  # using comma puts space between values
-    print("\n", "Players: ", end="")  # \t is a tab indent, end="" make sure no return occurs
+    print("Country", InfoDb[n]["Country"], "\nLeague", InfoDb[n]["League"],
+          "\nCity", InfoDb[n]["City"], "\nTeam Name", InfoDb[n]["Team Name"],
+          "\nStadium", InfoDb[n]["Stadium"])  # using comma puts space between values
+    print("\t", "\nPlayers: ", end="")  # \t is a tab indent, end="" make sure no return occurs
     print(", ".join(InfoDb[n]["Players"]))  # join allows printing a string list with separator
     print()
 
@@ -91,7 +91,6 @@ if __name__ == "__main__":
     print("2--While Loop")
     print("3--Recursive Loop")
     try1 = input("What type of loop do you want?")
-    print(" ")
     if try1 == "1":
         print("From for loop: ")
         for_loopy()

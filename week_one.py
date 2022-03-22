@@ -1,5 +1,4 @@
-import matrix
-from week_zero import design, funcy, swapper
+from week_zero import design, funcy, swapper, matrix
 
 main_menu = [
     ["swap", "swapper.py"],

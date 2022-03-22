@@ -40,7 +40,7 @@ InfoDb.append({
 def data(n):
     print("Country", InfoDb[n]["Country"], "\nLeague", InfoDb[n]["League"],
           "\nCity", InfoDb[n]["City"], "\nTeam Name", InfoDb[n]["Team Name"],
-          "\nStadium", InfoDb[n]["Divison"])  # using comma puts space between values
+          "\nStadium", InfoDb[n]["Stadium"])  # using comma puts space between values
     print("\t", "\nPlayers: ", end="")  # \t is a tab indent, end="" make sure no return occurs
     print(", ".join(InfoDb[n]["Players"]))  # join allows printing a string list with separator
     print()

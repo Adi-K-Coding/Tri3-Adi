@@ -1,3 +1,3 @@
 language = "bash"
 
-run = "python week_one.py"
+run = "python week_two.py"

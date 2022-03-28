@@ -48,4 +48,17 @@ Licenses like Open Sourse MIT License allow people to use the code freely and di
 ### Make a license for your personal and Team project. Document license you picked and why.
 The license that we chose for our personal team project was the GPL-3.0 License. We picked this liecnese because it allows for commerical use and private use alike, as well as distribution. 
 
+## 5.5 Tech Talk Notes
+### Notes:
+It is very important to stay safe on the internet. This means protecting your information and your personal data. Some things you choose to put on the internet, like your name, email/contact info, college/eductation. Others are a gray area, like birthplace, adress, phone number. Others however, are things you absolutely should not share with anybody, like financials, passwords, social security number. 
 
+### Describe PII you have seen on project in CompSci Principles.
+PII that I have seen in computer science principles is our names, our schools, interests, and possible contact information. This is mostly off our about pages, which were on last tris project. 
+### What are your feelings about PII and your exposure?
+PII is a scary thought, as almost anybody on the internet can find out anything about you, but if you protect yourself and take the necesary steps to protect your information, it can be fine. PII can also be helpful, such as if you want to get in contact with somebody over the internet, say to work on a project. 
+### Describe good and bad passwords? What is another step that is used to assist in authentication.
+Good passwords use letters, capitals, symbols, numbers, and specical characters, while bad passwords are simple, easy to guess. Multifactor authentication is one way to create a more safe login, becuase it requires two forms of authentication before letting somebody access information/data. 
+### Try to describe Symmetric and Asymmetric encryption.
+Symmetric encryption is where only one secret key is used to both encrypt and decryot information/data, but in assymetric encrypton, it uses a pair of keys, one public and one private, to encrypt and decrypt information/data. 
+### Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+Once I got an ad that said I had won a giftcard on amazon. This was when I first got my phone so a while back, and I was gullibe. I clicked on the link, and it prompted me to enter personal information. At this point I was suspicious and stopped there, but then I got a popup saying a virus had been installed, and I had to hard restart my phone. lucky that fixed the issue, but it was scary for little me. Other ways scammers might try to phish you, is through email. 

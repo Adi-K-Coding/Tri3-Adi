@@ -151,3 +151,143 @@ if __name__ == "__main__":
     fibonacci(userInput)
 
 ```
+### Week Two
+#### Factor function
+```python
+class Factor:
+    # constructor
+    def __init__(self):
+        self.factor_seq = []
+
+    # factors method using class and call function
+
+    def __call__(self, n):
+        print("Printing Factors of", n, " using call function... ")
+        for i in range(1, n + 1):
+            if n % i == 0:
+                self.factor_seq.append(i)
+        for j in self.factor_seq:
+            if j == n:
+                print(j, end=" ")
+            else:
+                print(j, end=" , ")
+        self.factor_seq.clear()
+        return ""
+
+
+# factors imperatively
+def normal_factor():
+    n = int(input("What number do you want the factors for"))
+    print(" ")
+    print("Printing Factors of", n, "in imperative... ")
+    for i in range(1, n + 1):
+        if n % i == 0:
+            if i == n:
+                print(i, end="")
+            else:
+                print(i, end=", ")
+
+    print("")
+
+
+# test cases for class call
+def runner_call():
+    factor_of = Factor()  # object instantiation and run __init__ method
+    print(factor_of(4))
+    print(factor_of(1))
+    print(factor_of(84))
+    print(factor_of(12))
+    print(factor_of(49))
+    print(factor_of(33))
+    print(factor_of(2048))
+
+
+# test cases for imperative function
+def runner_imperative():
+    normal_factor(4)
+    normal_factor(1)
+    normal_factor(84)
+    normal_factor(12)
+    normal_factor(49)
+    normal_factor(33)
+    normal_factor(2048)
+
+
+if __name__ == "__main__":
+    runner_call()
+    runner_imperative()
+
+```
+#### Factorial Function
+```python
+class Factorial:
+    def __init__(self):
+        self.factorialSeq = []
+
+    def __call__(self, n):
+        if n < 2:
+            self.factorialSeq.append(1)
+            for i in self.factorialSeq:  # Breaks out of the loop if n is less than one
+                if i == 1:
+                    print(i, end=" = ")
+                else:
+                    print(i, end=" x ")
+            return 1
+        else:
+            # Compute the requested Factorial number
+            self.factorialSeq.append(n)  # builds list
+        return n * self(n - 1)
+
+
+def factorial_function():
+    n = int(input("What number would you like to factorial"))
+    facto_of = Factorial()  # object instantiation and run __init__ method
+    print(facto_of(n))
+
+
+if __name__ == "__main__":
+    factorial_function()
+
+```
+#### Palindrome function
+```python
+import math
+
+
+class Palindrome:
+# call function
+    def __call__(self, string):
+        s = string.strip()
+        palindrome1 = s.replace(" ", "").replace("!", "").replace(",", "").replace(".", "").replace("'", "").replace(
+            "-", "").replace(":", "").replace(";", "").replace("?", "");
+        palindrome = palindrome1.lower()
+        # making all letters the same, getting rid of special characters
+        print(palindrome)
+        ispalindrome = True
+        # function to check if string is palidrome
+        lengthofinput = (len(palindrome) / 2) + 0.5
+        for i in range(0, math.floor(lengthofinput)):
+            if palindrome[i] != palindrome[len(palindrome) - (i + 1)]:
+                ispalindrome = False
+                break
+        return ispalindrome;
+
+
+def runner1():
+    palindrome_of = Palindrome()  # object instantiation and run __init__ method
+    # Test cases
+    print(palindrome_of("ABA"))
+    print(palindrome_of("ABBA"))
+    print(palindrome_of("racecar"))
+    print(palindrome_of("Was it a cat I saw?"))
+    print(palindrome_of("A man, a plan, a cat, a ham, a yak, a yam, a hat, a canal - Panama"))
+    print(palindrome_of("Doc, Note: I Dissent. A Fast Never Prevents A Fatness. I Diet On Cod."))
+    print(palindrome_of("abcdefghijklmnopqrstuvwxyz"))
+    print(palindrome_of("This is not a palendrome"))
+    print(palindrome_of("This is close but not quite right etiuq ton tub esolc si sihT"))
+
+
+if __name__ == "__main__":
+    runner1()
+
+```

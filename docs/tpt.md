@@ -48,7 +48,7 @@ Licenses like Open Sourse MIT License allow people to use the code freely and di
 ### Make a license for your personal and Team project. Document license you picked and why.
 The license that we chose for our personal team project was the GPL-3.0 License. We picked this liecnese because it allows for commerical use and private use alike, as well as distribution. 
 
-## 5.5 Tech Talk Notes
+## 5.6 Tech Talk Notes
 ### Notes:
 It is very important to stay safe on the internet. This means protecting your information and your personal data. Some things you choose to put on the internet, like your name, email/contact info, college/eductation. Others are a gray area, like birthplace, adress, phone number. Others however, are things you absolutely should not share with anybody, like financials, passwords, social security number. 
 

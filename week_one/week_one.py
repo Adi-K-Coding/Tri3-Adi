@@ -40,33 +40,48 @@ InfoDb.append({
 def data(n):
     print("Country", InfoDb[n]["Country"], "\nLeague", InfoDb[n]["League"],
           "\nCity", InfoDb[n]["City"], "\nTeam Name", InfoDb[n]["Team Name"],
-          "\nStadium", InfoDb[n]["Stadium"])  # using comma puts space between values
-    print("\t", "\nPlayers: ", end="")  # \t is a tab indent, end="" make sure no return occurs
-    print(", ".join(InfoDb[n]["Players"]))  # join allows printing a string list with separator
+          "\nStadium", InfoDb[n]["Stadium"])  #printing all the values from the infoDB
+    print("\t", "\nPlayers: ", end="") #end="" make sure no return occurs
+    print(", ".join(InfoDb[n]["Players"]))  # join allows printing a string list with separator, is useful here because "players"
+    #is a list within the dictionary
     print()
 
 
 def for_loopy():
     for i in range(len(InfoDb)):
         data(i)
+#for loop
+
+def while_loopy():
+    while_loopy1(0)
 
 
-def while_loopy(x):
+def while_loopy1(x):
     while x < len(InfoDb):
         data(x)
         x += 1
     return
+#while loop
 
+def recursive_loopy():
+    recursive_loopy1(0)
 
-def recursive_loopy(x):
+def recursive_loopy1(x):
     if x < len(InfoDb):
         data(x)
-        recursive_loopy(x + 1)
+        recursive_loopy1(x + 1)
     return
+#recursive loop
+
+def fibonacci():
+    userInput = int(input("How many numbers should the fibonacci sequence be?"))
+    print("Printing Fibonacci...")
+    fibonacci_start(userInput)
 
 
-def fibonacci(input1):
-    try:
+def fibonacci_start(input1):
+
+    try:# try catch used to detect only valid inputs for the length of the sequence
         if input1 < 2:
             raise ValueError
         print(0)
@@ -75,7 +90,7 @@ def fibonacci(input1):
         fibonacci1((input1 - 2), 0, 1)
     except ValueError:
         print("Please enter a valid input")
-
+#need a starter method to print first two values of fibonacci, then passes them into variables so the resursive math can be done
 
 def fibonacci1(number_times, prev_number, current_number):
     temp = current_number
@@ -84,22 +99,5 @@ def fibonacci1(number_times, prev_number, current_number):
     prev_number = temp
     if number_times > 0:
         fibonacci1(number_times - 1, prev_number, current_number)
+#fibonacci math using recursion
 
-
-if __name__ == "__main__":
-    print("1--For Loop")
-    print("2--While Loop")
-    print("3--Recursive Loop")
-    try1 = input("What type of loop do you want?")
-    if try1 == "1":
-        print("From for loop: ")
-        for_loopy()
-    elif try1 == "2":
-        print("From while loop: ")
-        while_loopy(0)
-    elif try1 == "3":
-        print("From recursive loop: ")
-        recursive_loopy(0)
-    userInput = int(input("How many numbers should the fibonacci sequence be?"))
-    print("Printing Fibonacci...")
-    fibonacci(userInput)

@@ -38,3 +38,14 @@ A crowdsource idea that we could implement in CSP is large database of informati
 ### What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 
 Our final project could be better with crowdsourcing. This is because we have an idea to add a database with tennis events in it. Instead of us having to individually add every event, we can add a feature where other people can just add their own events in with the results, and this would make data entry more efficient and convenient. 
+
+## 5.5 Tech Talk Notes
+### Notes:
+There are multiple different types of licenses that you can have on your projects, that control who is allowed to use, and how they can use your work, and also control how you can use other people's work. The license something has also determines in what ways things are allowed to be used, such as for provate purposes or for commerical use, or if they are used, what percent of profits must go to the original creator. All of these things are important when determining what license to use. 
+
+### When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+Licenses like Open Sourse MIT License allow people to use the code freely and distribute close source versions of the code. Another type of license, the open source GPL license lets people do pretty much the same thing as the open source MIT, but it doesnt allow disttibuting closed source versions. 
+### Make a license for your personal and Team project. Document license you picked and why.
+The license that we chose for our personal team project was the GPL-3.0 License. We picked this liecnese because it allows for commerical use and private use alike, as well as distribution. 
+
+

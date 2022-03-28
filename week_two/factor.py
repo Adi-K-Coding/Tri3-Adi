@@ -27,6 +27,8 @@ def normal_factor():
             else:
                 print(i, end=", ")
 
+    print("")
+
 
 def runner_call():
     factor_of = Factor()  # object instantiation and run __init__ method

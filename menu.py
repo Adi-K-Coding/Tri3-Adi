@@ -87,6 +87,7 @@ def buildMenu(banner, options):
 
     # get user choice
     choice = input("Type your choice> ")
+    print(" ")
 
     # validate choice and run
     # execute selection

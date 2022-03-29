@@ -2,7 +2,7 @@
 
 ```python
 
-from week_zero_runner import design, funcy, swapper, matrix
+from week_zero.week_zero_runner import design, funcy, swapper, matrix
 
 main_menu = [
     ["swap", "swapper.py"],

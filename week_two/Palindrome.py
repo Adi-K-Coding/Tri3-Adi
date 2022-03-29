@@ -2,14 +2,16 @@ import math
 
 
 class Palindrome:
-
+# call function
     def __call__(self, string):
         s = string.strip()
         palindrome1 = s.replace(" ", "").replace("!", "").replace(",", "").replace(".", "").replace("'", "").replace(
             "-", "").replace(":", "").replace(";", "").replace("?", "");
         palindrome = palindrome1.lower()
+        # making all letters the same, getting rid of special characters
         print(palindrome)
         ispalindrome = True
+        # function to check if string is palidrome
         lengthofinput = (len(palindrome) / 2) + 0.5
         for i in range(0, math.floor(lengthofinput)):
             if palindrome[i] != palindrome[len(palindrome) - (i + 1)]:
@@ -20,6 +22,7 @@ class Palindrome:
 
 def runner1():
     palindrome_of = Palindrome()  # object instantiation and run __init__ method
+    # Test cases
     print(palindrome_of("ABA"))
     print(palindrome_of("ABBA"))
     print(palindrome_of("racecar"))

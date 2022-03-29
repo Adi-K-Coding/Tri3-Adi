@@ -1,6 +1,9 @@
 class Factor:
+    # constructor
     def __init__(self):
         self.factor_seq = []
+
+    # factors method using class and call function
 
     def __call__(self, n):
         print("Printing Factors of", n, " using call function... ")
@@ -16,6 +19,7 @@ class Factor:
         return ""
 
 
+# factors imperatively
 def normal_factor():
     n = int(input("What number do you want the factors for"))
     print(" ")
@@ -30,6 +34,7 @@ def normal_factor():
     print("")
 
 
+# test cases for class call
 def runner_call():
     factor_of = Factor()  # object instantiation and run __init__ method
     print(factor_of(4))
@@ -41,14 +46,15 @@ def runner_call():
     print(factor_of(2048))
 
 
-# def runner_imperative():
-    # normal_factor(4)
-    # normal_factor(1)
-    # normal_factor(84)
-    # normal_factor(12)
-    # normal_factor(49)
-    # normal_factor(33)
-    # normal_factor(2048)
+# test cases for imperative function
+def runner_imperative():
+    normal_factor(4)
+    normal_factor(1)
+    normal_factor(84)
+    normal_factor(12)
+    normal_factor(49)
+    normal_factor(33)
+    normal_factor(2048)
 
 
 if __name__ == "__main__":

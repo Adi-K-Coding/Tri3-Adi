@@ -8,6 +8,7 @@ from main import my_info
 from week_two.factor import normal_factor
 from week_two.Palindrome import runner1
 from week_two.factorial import factorial_function
+from week_three.gcd import gcdtest
 
 main_menu = [
     ["About Me", my_info],
@@ -21,6 +22,7 @@ sub_menu = [
     ["Factor", normal_factor],
     ["Palindrome", runner1],
     ["Fibonacci", fibonacci],
+    ["GCF", gcdtest]
 ]
 
 week_two_sub_menu = [

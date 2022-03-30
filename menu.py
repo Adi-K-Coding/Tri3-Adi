@@ -44,7 +44,7 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 
 def menu():
     print("")
-    title = "Function Menu" + banner
+    title = "\033[96m Adi K Main Menu  \n \033[0m" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Number Functions", submenu])
     menu_list.append(["Looping Fun", week2_submenu])

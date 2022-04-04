@@ -8,6 +8,8 @@
 
 [Link to Adi's Week 2 Review Ticket](https://github.com/Adi-K-Coding/Tri3-Adi/issues/4)
 
+[Link to Algoritmic Final Reivew Ticket](https://github.com/Adi-K-Coding/Tri3-Adi/issues/5)
+
 <h1>Adi's Important Links</h1>
 
 [Scrum Board](https://github.com/Adi-K-Coding/Tri3-Adi/projects/1)

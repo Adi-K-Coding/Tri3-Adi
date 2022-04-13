@@ -1,5 +1,16 @@
 {% include navigation.html %}
 
+### Week Three Accounts and Login Hacks
+Hack One: Phone Number Added
+![image](https://user-images.githubusercontent.com/34950822/162528328-224c1d8f-a931-4490-bf9b-873b4e5b4fef.png)
+Hack Two: Added Logout and User Displayed on Page
+![image](https://user-images.githubusercontent.com/34950822/162528568-23bd5ee7-7f91-4242-b98b-9d8076398105.png)
+Hack Three: 
+
+
+
+
+
 ```python
 
 from week_zero.week_zero_runner import design, funcy, swapper, matrix

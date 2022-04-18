@@ -10,6 +10,8 @@
 
 [Link to Algoritmic Final Reivew Ticket](https://github.com/Adi-K-Coding/Tri3-Adi/issues/5)
 
+[Link to Accounts and Logins Review Ticket](https://github.com/Adi-K-Coding/Tri3-Adi/issues/6)
+
 <h1>Adi's Important Links</h1>
 
 [Scrum Board](https://github.com/Adi-K-Coding/Tri3-Adi/projects/1)

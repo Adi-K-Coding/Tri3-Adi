@@ -1,3 +1,4 @@
+{% include navigation.html %}
 
 Week One: 
 Go through all requirements for create task

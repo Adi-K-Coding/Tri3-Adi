@@ -19,6 +19,7 @@ List:
 - public vs private keys
 - internet and packets
 - digital certificates on browser
+- 
 ### Tuesday:
 Watch CB Big idea 2 videos and go over list above
 ### Wednesday:

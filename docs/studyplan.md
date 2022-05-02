@@ -45,6 +45,18 @@ Correct answer is A because when data is sent over the internet, the data is ass
 ![image](https://user-images.githubusercontent.com/34950822/165027460-f8d9450b-41f0-4c2e-a086-21080418b173.png)
 Correct answer is C because both 14 and 15 can be stored in 4 bits (1110 and 1111) respectively, but the sum of the two, 29, cannot be stored in 4 bits because its binary value is 11101 which is 5 bits. 
 
+### MC Test Number 3 Score: 46/50
+### Test 3 Corrections: 
+
+![image](https://user-images.githubusercontent.com/34950822/166318374-55f3086b-dfd6-4258-8b47-1b5d0757983c.png)
+
+![image](https://user-images.githubusercontent.com/34950822/166318429-2aaa323b-56b2-41c5-80cd-f7c82b211f12.png)
+
+![image](https://user-images.githubusercontent.com/34950822/166318659-602feaa9-df7a-482d-89cc-8a847be34b84.png)
+
+![image](https://user-images.githubusercontent.com/34950822/166318720-35b556cc-a468-4cb4-80f1-3d637d450881.png)
+
+
  ### Tough Questions
  
  ![image](https://user-images.githubusercontent.com/34950822/164312949-981bbfd9-fa17-41ee-9a09-b84cca2d28eb.png)

@@ -30,7 +30,7 @@ Watch CB Big idea 4 videos and go over list above. Practice AP CSP questions on 
 ### Friday:
 Watch CB Big idea 5 videos and go over list above. Practice AP CSP questions on khan academy
 
-
+*** 
 
 ## MC Practice Test Corrections
 ### MC Test Number 1 Score: 49/50
@@ -38,13 +38,16 @@ Watch CB Big idea 5 videos and go over list above. Practice AP CSP questions on 
 
 ![image](https://user-images.githubusercontent.com/34950822/164311297-b67d51da-5cc1-4f21-9ad0-fd2af2526c69.png)
 Correct answer is A because when data is sent over the internet, the data is assembled into packets before it is sent, and the packets metadata contains information for how and where to send the package.
-
+***
+***
 ### MC Test Number 2 Score: 49/50
 ### Test 2 Corrections:
 
 ![image](https://user-images.githubusercontent.com/34950822/165027460-f8d9450b-41f0-4c2e-a086-21080418b173.png)
 Correct answer is C because both 14 and 15 can be stored in 4 bits (1110 and 1111) respectively, but the sum of the two, 29, cannot be stored in 4 bits because its binary value is 11101 which is 5 bits. 
 
+***
+***
 ### MC Test Number 3 Score: 46/50
 ### Test 3 Corrections: 
 
@@ -56,7 +59,8 @@ Correct answer is C because both 14 and 15 can be stored in 4 bits (1110 and 111
 
 ![image](https://user-images.githubusercontent.com/34950822/166318720-35b556cc-a468-4cb4-80f1-3d637d450881.png)
 
-
+***
+***
  ### Tough Questions
  
  ![image](https://user-images.githubusercontent.com/34950822/164312949-981bbfd9-fa17-41ee-9a09-b84cca2d28eb.png)

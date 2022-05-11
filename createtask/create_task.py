@@ -63,7 +63,8 @@ def create_question():
     b3 = tkinter.Button(top, text=answer_list[2], command=lambda: check_answer(answer_list[2], random_value))
     b4 = tkinter.Button(top, text=answer_list[3], command=lambda: check_answer(answer_list[3], random_value))
 
-    # setting the text of the question to be displayed, as well at the text for the score variable
+    # setting the text of the question to be displayed using the random value variable, as well at the text for the
+    # score variable
     text = tkinter.StringVar()
     text.set(random_value.question)
     label = tkinter.Label(top, textvariable=text, relief=FLAT)
@@ -79,19 +80,20 @@ def create_question():
     top.mainloop()
 
 
-def check_answer(user_answer, rv):
+def check_answer(user_answer, rand_val):
+    # collaborated with Rohan Gaikwad for the idea of the check answer method
     global score1
     # checks if the passed in value of the button that was clicked(user_answer) is equal to the correct answer to the
-    # random question(rv)
-    if user_answer == rv.answer:
+    # random question(rand_val)
+    if user_answer == rand_val.answer:
         # if correct, score increases by 1 and it displays correct
         score1 = score1 + 1
         messagebox.showinfo("", "Correct")
     else:
         # if incorrect, score doesn't change and it displays the correct answer
-        messagebox.showinfo("", f"Incorrect, the correct answer was {rv.answer}")
+        messagebox.showinfo("", f"Incorrect, the correct answer was {rand_val.answer}")
     # the question is then removed from the list of questions so that it doesn't appear again
-    questionList.remove(rv)
+    questionList.remove(rand_val)
     #  gets rid of the current question that is being displayed so that the next question can be displayed
     top.quit()
     for widget in top.winfo_children():
